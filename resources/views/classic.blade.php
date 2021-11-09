@@ -26,7 +26,7 @@
 <div class="container mx-auto p-6">
 
     <div class="grid grid-cols-4 ">
-        <div class="col-span-4 lg:col-span-3"><h1 class="text-2xl lg:text-4xl font-bold text-red-500">adsfasdfasdf amministrative Comune di Manfredonia</h1></div>
+        <div class="col-span-4 lg:col-span-3"><h1 class="text-2xl lg:text-4xl font-bold text-red-500">Elezioni amministrative Comune di Manfredonia</h1></div>
         <div class="col-span-4 lg:col-span-1"><h1 class="text-2xl lg:text-4xl text-blue-700 lg:text-right font-bold">7 novembre 2021</h1><p class="lg:text-right text-sm text-black"><i class="text-red-500 text-2xl fas fa-spinner fa-spin mr-2"></i>Pagina in aggiornamento AUTOMATICO ogni 2 minuti</p></div>
 
 
